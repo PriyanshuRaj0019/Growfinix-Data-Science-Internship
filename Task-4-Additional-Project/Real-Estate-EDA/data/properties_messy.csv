@@ -1,0 +1,659 @@
+property_id,neighborhood,property_type,price,area_sqft,bedrooms,bathrooms,age_years
+PROP0001,Jayanagar,Apartment,10989330.0,1173.0,2.0,2.0,6.3
+PROP0002,Koramangala,Studio,15590108.0,1236.0,2.0,1.0,5.6
+PROP0003,Electronic City,Villa,12438933.0,2159.0,4.0,5.0,21.8
+PROP0004,HSR Layout,Villa,7887791.0,909.0,2.0,3.0,9.6
+PROP0005,Indiranagar,Apartment,3294418.0,350.0,1.0,1.0,0.8
+PROP0006,Electronic City,Studio,14540381.0,2288.0,4.0,5.0,3.7
+PROP0007,Jayanagar,Apartment,27150612.0,,4.0,3.0,12.2
+PROP0008,Jayanagar,Independent House,10625803.0,1239.0,1.0,1.0,15.0
+PROP0009,Indiranagar,Apartment,6472870.0,443.0,1.0,2.0,5.4
+PROP0010,Koramangala,Apartment,-1000.0,1289.0,2.0,1.0,
+PROP0011,Whitefield,Independent House,10105810.0,1301.0,2.0,2.0,17.4
+PROP0012,Electronic City,Apartment,8373966.0,1351.0,2.0,1.0,8.7
+PROP0013,HSR Layout,Apartment,8725941.0,871.0,1.0,2.0,7.2
+PROP0014,Jayanagar,Villa,16608861.0,1751.0,4.0,4.0,4.1
+PROP0015,Koramangala,Apartment,22046619.0,1723.0,3.0,3.0,18.7
+PROP0016,Whitefield,Apartment,5949544.0,673.0,1.0,2.0,0.2
+PROP0017,Koramangala,Apartment,22643922.0,1814.0,3.0,3.0,32.0
+PROP0018,Indiranagar,Apartment,28091222.0,2517.0,4.0,5.0,1.4
+PROP0019,Jayanagar,Apartment,14001186.0,1539.0,2.0,1.0,10.4
+PROP0020,HSR Layout,Apartment,14188975.0,1275.0,2.0,1.0,12.5
+PROP0021,Jayanagar,Apartment,12868401.0,1376.0,3.0,4.0,13.2
+PROP0022,Whitefield,Apartment,,1770.0,2.0,3.0,38.7
+PROP0023,Electronic City,Apartment,2144478.0,550.0,1.0,1.0,2.4
+PROP0024,Electronic City,Villa,7553430.0,1535.0,2.0,2.0,21.5
+PROP0025,Jayanagar,Villa,12376127.0,1247.0,2.0,1.0,7.4
+PROP0026,Whitefield,Apartment,17320623.0,2411.0,4.0,5.0,18.9
+PROP0027,Koramangala,Apartment,15515591.0,1359.0,1.0,2.0,5.6
+PROP0028,Indiranagar,Independent House,25738003.0,2317.0,4.0,3.0,8.1
+PROP0029,Indiranagar,Apartment,11076621.0,876.0,2.0,2.0,4.9
+PROP0030,HSR Layout,Apartment,19321741.0,1755.0,3.0,3.0,
+PROP0031,Jayanagar,Apartment,15552066.0,1616.0,2.0,2.0,7.0
+PROP0032,Electronic City,Apartment,5979317.0,998.0,,2.0,10.4
+PROP0033,Whitefield,Studio,12580205.0,1542.0,3.0,2.0,12.4
+PROP0034,Whitefield,Independent House,16759441.0,2081.0,2.0,1.0,12.5
+PROP0035,Koramangala,Independent House,15327915.0,1282.0,2.0,1.0,10.7
+PROP0036,Whitefield,Apartment,4461178.0,570.0,1.0,2.0,13.3
+PROP0037,Indiranagar,Apartment,15922236.0,1441.0,3.0,3.0,13.6
+PROP0038,Koramangala,Apartment,,981.0,1.0,2.0,8.4
+PROP0039,Whitefield,Apartment,9221271.0,1272.0,2.0,2.0,22.9
+PROP0040,HSR Layout,Apartment,14383519.0,1408.0,3.0,2.0,10.4
+PROP0041,Koramangala,Villa,7929709.0,563.0,2.0,2.0,14.7
+PROP0042, jayanagar ,Apartment,6629467.0,610.0,1.0,1.0,-3.0
+PROP0043,HSR Layout,Independent House,17967684.0,1701.0,3.0,4.0,19.8
+PROP0044,Whitefield,Apartment,,,1.0,2.0,2.5
+PROP0045, jayanagar ,Apartment,3120323.0,350.0,1.0,2.0,10.0
+PROP0046,Jayanagar,Independent House,-1000.0,1858.0,,3.0,10.9
+PROP0047,Whitefield,Villa,12554521.0,1592.0,2.0,1.0,17.9
+PROP0048,Whitefield,Apartment,10426635.0,1079.0,2.0,1.0,18.0
+PROP0049,HSR Layout,Apartment,7136786.0,765.0,1.0,1.0,8.9
+PROP0050,Indiranagar,Apartment,20056551.0,1885.0,3.0,3.0,8.9
+PROP0051,Whitefield,Apartment,12882240.0,1632.0,3.0,4.0,4.6
+PROP0052,Indiranagar,Apartment,29396998.0,2689.0,5.0,6.0,5.9
+PROP0053,Jayanagar,Apartment,17447973.0,1668.0,2.0,,17.0
+PROP0054,HSR Layout,Apartment,16407722.0,1652.0,3.0,2.0,15.7
+PROP0055,HSR Layout,Apartment,14805786.0,1363.0,3.0,3.0,11.8
+PROP0056,Jayanagar,Villa,19182949.0,50.0,2.0,2.0,1.0
+PROP0057,Koramangala,Studio,22047786.0,1775.0,2.0,1.0,12.9
+PROP0058,Koramangala,Apartment,113500552.5,2101.0,4.0,5.0,27.2
+PROP0059,Indiranagar,Apartment,13879847.0,1179.0,2.0,3.0,4.4
+PROP0060,Indiranagar,Apartment,14038464.0,1224.0,2.0,2.0,14.3
+PROP0061,HSR Layout,Studio,12848155.0,1201.0,3.0,2.0,25.9
+PROP0062,Koramangala,Villa,23357968.0,1861.0,3.0,4.0,7.6
+PROP0063, koramangala ,Villa,27516252.0,2229.0,4.0,3.0,-3.0
+PROP0064,Jayanagar,Apartment,11525732.0,1211.0,3.0,3.0,8.6
+PROP0065, hsr layout ,Apartment,12699551.0,1229.0,2.0,3.0,27.5
+PROP0066, koramangala ,Apartment,20172572.0,1613.0,2.0,3.0,0.7
+PROP0067,Koramangala,Apartment,15922279.0,1322.0,2.0,1.0,5.9
+PROP0068,Whitefield,Villa,14174445.0,1945.0,3.0,3.0,9.6
+PROP0069,Indiranagar,Apartment,3305008.0,50.0,1.0,1.0,17.4
+PROP0070,Koramangala,Apartment,12764719.0,1020.0,,1.0,6.9
+PROP0071,Whitefield,Apartment,8001850.0,1043.0,3.0,3.0,6.3
+PROP0072,Koramangala,Apartment,4435929.0,350.0,1.0,2.0,16.2
+PROP0073,Electronic City,Apartment,5993223.0,949.0,,2.0,9.9
+PROP0074,Whitefield,Apartment,7141140.0,974.0,2.0,2.0,16.5
+PROP0075,Indiranagar,Independent House,15811599.0,1345.0,2.0,1.0,12.8
+PROP0076,Whitefield,Independent House,15559528.0,2029.0,3.0,2.0,3.8
+PROP0077,Whitefield,Independent House,9767962.0,1323.0,2.0,1.0,8.9
+PROP0078,HSR Layout,Villa,9826525.0,914.0,1.0,1.0,15.4
+PROP0079,Koramangala,Villa,15871951.0,1420.0,3.0,2.0,19.5
+PROP0080,Jayanagar,Apartment,18767690.0,1996.0,4.0,5.0,5.9
+PROP0081,HSR Layout,Apartment,10555508.0,943.0,12.0,1.0,
+PROP0082,Koramangala,Apartment,10977756.0,977.0,1.0,1.0,2.2
+PROP0083, jayanagar ,Apartment,17706008.0,1740.0,3.0,3.0,7.8
+PROP0084,Indiranagar,Apartment,15541540.0,1335.0,2.0,1.0,
+PROP0085,Indiranagar,Apartment,18689811.0,1787.0,3.0,3.0,
+PROP0086,Indiranagar,Independent House,15978392.0,1443.0,2.0,,2.8
+PROP0087,HSR Layout,Apartment,18638693.0,1815.0,3.0,2.0,24.2
+PROP0088,Koramangala,Apartment,10909173.0,912.0,1.0,1.0,6.2
+PROP0089,Indiranagar,Apartment,16449123.0,1444.0,3.0,4.0,0.8
+PROP0090,Koramangala,Apartment,15971046.0,1340.0,2.0,2.0,8.3
+PROP0091,Indiranagar,Independent House,8492262.0,818.0,2.0,2.0,7.3
+PROP0092,HSR Layout,Apartment,5772121.0,637.0,1.0,1.0,21.4
+PROP0093,Koramangala,Independent House,22499981.0,1807.0,4.0,3.0,6.5
+PROP0094,Whitefield,Studio,9961168.0,1268.0,3.0,2.0,30.9
+PROP0095,Whitefield,Apartment,6631281.0,918.0,2.0,2.0,20.1
+PROP0096,HSR Layout,Apartment,13578292.0,1400.0,2.0,1.0,11.1
+PROP0097,Whitefield,Apartment,14986841.0,2037.0,,5.0,4.6
+PROP0098,Indiranagar,Apartment,4051953.0,350.0,1.0,1.0,12.5
+PROP0099,Indiranagar,Apartment,8504238.0,672.0,1.0,1.0,9.3
+PROP0100,Electronic City,Independent House,5981827.0,970.0,2.0,2.0,15.2
+PROP0101,Electronic City,Apartment,12437385.0,2210.0,4.0,3.0,
+PROP0102,HSR Layout,Independent House,15499168.0,1597.0,3.0,3.0,44.9
+PROP0103,Whitefield,Apartment,13955158.0,1849.0,3.0,4.0,7.2
+PROP0104,Electronic City,Independent House,4809794.0,857.0,2.0,1.0,17.7
+PROP0105,Jayanagar,Apartment,7697673.0,868.0,2.0,2.0,7.5
+PROP0106,,Apartment,18446569.0,,3.0,2.0,5.2
+PROP0107,Koramangala,Apartment,16156976.0,1480.0,1.0,1.0,11.0
+PROP0108,Whitefield,Apartment,13859944.0,1735.0,3.0,2.0,6.4
+PROP0109,Indiranagar,Studio,14512244.0,1352.0,2.0,2.0,1.5
+PROP0110,Electronic City,Apartment,9226996.0,1595.0,2.0,2.0,3.2
+PROP0111,Koramangala,Apartment,20302082.0,1532.0,3.0,2.0,3.7
+PROP0112,Whitefield,Apartment,13732920.0,1854.0,4.0,4.0,5.5
+PROP0113,Whitefield,Apartment,13842134.0,1870.0,12.0,4.0,23.8
+PROP0114,HSR Layout,Apartment,6145110.0,608.0,1.0,2.0,10.4
+PROP0115,Whitefield,Apartment,,350.0,1.0,1.0,7.3
+PROP0116,Electronic City,Apartment,11276477.0,1971.0,3.0,3.0,15.3
+PROP0117,Jayanagar,Apartment,19025591.0,2068.0,4.0,5.0,10.5
+PROP0118,HSR Layout,Apartment,8981070.0,919.0,,1.0,11.9
+PROP0119,Koramangala,Independent House,6804233.0,483.0,1.0,,8.3
+PROP0120,HSR Layout,Apartment,15698100.0,1501.0,2.0,2.0,5.0
+PROP0121,HSR Layout,Villa,20568225.0,1934.0,4.0,3.0,10.0
+PROP0122,HSR Layout,Apartment,24348878.0,2385.0,4.0,3.0,9.4
+PROP0123,Indiranagar,Apartment,18185528.0,1718.0,3.0,3.0,18.0
+PROP0124,Koramangala,Apartment,16459810.0,1257.0,2.0,2.0,10.2
+PROP0125,Indiranagar,Apartment,10650712.0,986.0,1.0,2.0,5.8
+PROP0126, koramangala ,Apartment,17828506.0,1456.0,3.0,3.0,5.5
+PROP0127,Whitefield,Apartment,10767230.0,1294.0,2.0,3.0,37.4
+PROP0128,Indiranagar,Apartment,9622083.0,922.0,1.0,1.0,1.0
+PROP0129,Indiranagar,Independent House,26407598.0,2515.0,4.0,5.0,22.6
+PROP0130,HSR Layout,Apartment,24289528.0,2378.0,4.0,3.0,12.3
+PROP0131,Whitefield,Apartment,15599533.0,2041.0,4.0,3.0,14.4
+PROP0132,Electronic City,Apartment,5895435.0,971.0,2.0,3.0,18.8
+PROP0133,HSR Layout,Apartment,21151358.0,1895.0,3.0,4.0,13.2
+PROP0134,Whitefield,Villa,14045402.0,1783.0,3.0,4.0,8.1
+PROP0135,HSR Layout,Apartment,14544065.0,1680.0,3.0,2.0,29.2
+PROP0136,Indiranagar,Apartment,23125393.0,2100.0,3.0,2.0,
+PROP0137,Electronic City,Apartment,10504300.0,1780.0,4.0,5.0,6.5
+PROP0138,Koramangala,Apartment,22396880.0,1835.0,2.0,2.0,25.3
+PROP0139,Jayanagar,Independent House,17618448.0,1781.0,4.0,3.0,2.0
+PROP0140,Indiranagar,Apartment,17474254.0,1627.0,3.0,4.0,30.3
+PROP0141,Koramangala,Studio,6477626.0,523.0,1.0,2.0,14.9
+PROP0142,Koramangala,Apartment,19017581.0,1493.0,3.0,2.0,1.8
+PROP0143, electronic city ,Independent House,6410711.0,1161.0,2.0,3.0,16.3
+PROP0144,HSR Layout,Apartment,7509393.0,784.0,2.0,3.0,7.7
+PROP0145,Koramangala,Apartment,30786284.0,2325.0,4.0,4.0,6.7
+PROP0146,Whitefield,Studio,17305059.0,2349.0,4.0,,14.9
+PROP0147,Whitefield,Apartment,16352375.0,2157.0,4.0,3.0,11.4
+PROP0148,Koramangala,Apartment,17578817.0,1583.0,3.0,4.0,20.3
+PROP0149,Koramangala,Independent House,26861125.0,2152.0,4.0,5.0,2.3
+PROP0150,Indiranagar,Apartment,14745582.0,1456.0,3.0,4.0,15.8
+PROP0151,Jayanagar,Villa,14439243.0,1555.0,2.0,3.0,13.6
+PROP0152,Electronic City,Villa,5884337.0,881.0,2.0,1.0,17.4
+PROP0153,Indiranagar,Studio,18280719.0,1656.0,3.0,3.0,7.0
+PROP0154,Koramangala,Independent House,18766858.0,1481.0,3.0,3.0,34.2
+PROP0155,Indiranagar,Apartment,6978769.0,773.0,2.0,3.0,14.5
+PROP0156,HSR Layout,Apartment,15822695.0,1423.0,2.0,2.0,9.5
+PROP0157,Whitefield,Apartment,10148890.0,50.0,2.0,2.0,1.2
+PROP0158,HSR Layout,Apartment,25628094.0,2385.0,4.0,3.0,7.7
+PROP0159,HSR Layout,Studio,19811930.0,1915.0,2.0,3.0,18.0
+PROP0160,Jayanagar,Apartment,14420453.0,1456.0,3.0,3.0,26.0
+PROP0161,Indiranagar,Apartment,16484179.0,1579.0,3.0,2.0,10.6
+PROP0162,Electronic City,Apartment,8235351.0,1473.0,2.0,3.0,28.8
+PROP0163,Whitefield,Apartment,10015582.0,50.0,1.0,1.0,4.7
+PROP0164,Indiranagar,Independent House,9726669.0,887.0,1.0,1.0,13.9
+PROP0165,Koramangala,Apartment,16713143.0,1371.0,3.0,2.0,14.2
+PROP0166,Whitefield,Apartment,6581537.0,1062.0,1.0,1.0,15.9
+PROP0167,Jayanagar,Studio,8562666.0,800.0,1.0,1.0,
+PROP0168,Jayanagar,Independent House,16538770.0,1716.0,2.0,3.0,13.4
+PROP0169,Whitefield,Apartment,12553469.0,1653.0,3.0,3.0,4.6
+PROP0170,Electronic City,Independent House,2698095.0,521.0,,1.0,24.4
+PROP0171,Whitefield,Apartment,10709564.0,1386.0,2.0,1.0,19.4
+PROP0172,Koramangala,Studio,23343114.0,1968.0,4.0,4.0,13.0
+PROP0173,Whitefield,Apartment,13429143.0,2001.0,4.0,3.0,19.7
+PROP0174,Electronic City,Apartment,11492908.0,1983.0,3.0,4.0,24.9
+PROP0175,Indiranagar,Villa,16219471.0,1470.0,2.0,1.0,15.7
+PROP0176,Indiranagar,Apartment,10643417.0,1011.0,2.0,2.0,36.5
+PROP0177,Koramangala,Apartment,10268822.0,886.0,2.0,1.0,16.6
+PROP0178,Electronic City,Apartment,9805656.0,1629.0,3.0,2.0,5.2
+PROP0179,Electronic City,Apartment,8741690.0,,3.0,2.0,12.6
+PROP0180,Jayanagar,Apartment,19826738.0,2119.0,4.0,3.0,20.2
+PROP0181,Electronic City,Apartment,11588161.0,2022.0,3.0,,24.9
+PROP0182,Electronic City,Apartment,8831688.0,1381.0,3.0,4.0,11.9
+PROP0183,Koramangala,Independent House,9685720.0,803.0,1.0,2.0,4.9
+PROP0184,Whitefield,Independent House,9534595.0,1284.0,3.0,2.0,8.9
+PROP0185,Jayanagar,Apartment,16549356.0,1563.0,3.0,4.0,3.2
+PROP0186,,Apartment,,1345.0,3.0,3.0,17.8
+PROP0187,Whitefield,Apartment,9087410.0,1149.0,2.0,1.0,
+PROP0188,Indiranagar,Apartment,17094902.0,1582.0,2.0,1.0,6.0
+PROP0189,Jayanagar,Independent House,10850753.0,1188.0,2.0,2.0,19.0
+PROP0190,Whitefield,Apartment,7186037.0,1123.0,2.0,2.0,28.4
+PROP0191,Electronic City,Apartment,10275569.0,1612.0,3.0,2.0,5.9
+PROP0192,Whitefield,Apartment,9858035.0,1241.0,1.0,2.0,11.9
+PROP0193,Indiranagar,Apartment,17017278.0,1577.0,2.0,3.0,9.1
+PROP0194,Jayanagar,Independent House,15169636.0,1592.0,2.0,2.0,25.7
+PROP0195,Indiranagar,Villa,9754644.0,857.0,1.0,2.0,10.0
+PROP0196,Whitefield,Apartment,8163647.0,1200.0,2.0,3.0,4.5
+PROP0197,HSR Layout,Apartment,22114016.0,2198.0,4.0,5.0,10.3
+PROP0198,Electronic City,Independent House,4066035.0,846.0,1.0,1.0,22.3
+PROP0199, whitefield ,Apartment,3931515.0,350.0,1.0,2.0,8.7
+PROP0200,Whitefield,Independent House,4369048.0,482.0,1.0,1.0,6.5
+PROP0201,Jayanagar,Independent House,12516884.0,,2.0,3.0,9.6
+PROP0202,Electronic City,Apartment,7670321.0,1466.0,3.0,4.0,4.6
+PROP0203,Koramangala,Independent House,17139071.0,1389.0,2.0,1.0,9.1
+PROP0204,Indiranagar,Apartment,22409749.0,2081.0,3.0,3.0,6.9
+PROP0205,Indiranagar,Villa,2482208.0,350.0,1.0,1.0,40.8
+PROP0206,Whitefield,Apartment,14238783.0,1656.0,3.0,2.0,1.6
+PROP0207,Indiranagar,Apartment,24914673.0,2262.0,4.0,4.0,5.2
+PROP0208,HSR Layout,Apartment,9290523.0,864.0,1.0,2.0,6.5
+PROP0209,Indiranagar,Apartment,13213537.0,1253.0,2.0,3.0,4.7
+PROP0210,Koramangala,Apartment,13474925.0,1058.0,2.0,2.0,14.0
+PROP0211,HSR Layout,Apartment,10022847.0,985.0,1.0,1.0,5.9
+PROP0212,HSR Layout,Apartment,13194928.0,1280.0,3.0,3.0,2.8
+PROP0213, whitefield ,Apartment,17134181.0,2192.0,3.0,4.0,11.2
+PROP0214,Jayanagar,Apartment,22409411.0,2405.0,4.0,5.0,8.4
+PROP0215,HSR Layout,Independent House,14314335.0,1275.0,2.0,1.0,6.1
+PROP0216,Jayanagar,Independent House,23532565.0,2441.0,4.0,3.0,25.3
+PROP0217,Indiranagar,Apartment,16575128.0,1468.0,2.0,3.0,14.4
+PROP0218,Indiranagar,Apartment,24563780.0,2362.0,4.0,3.0,13.3
+PROP0219,Electronic City,Villa,7522604.0,1401.0,2.0,1.0,14.6
+PROP0220,Koramangala,Villa,17676426.0,1518.0,2.0,1.0,14.1
+PROP0221,Whitefield,Apartment,12647719.0,1640.0,2.0,2.0,8.7
+PROP0222,Koramangala,Studio,38484444.0,3103.0,5.0,5.0,5.9
+PROP0223,HSR Layout,Apartment,19051758.0,1893.0,3.0,3.0,11.4
+PROP0224,Electronic City,Apartment,5665740.0,1082.0,2.0,1.0,8.6
+PROP0225,Whitefield,Villa,14336744.0,1954.0,3.0,4.0,1.6
+PROP0226,Electronic City,Villa,7509472.0,1262.0,2.0,3.0,4.3
+PROP0227,Indiranagar,Independent House,12692986.0,1195.0,2.0,2.0,7.8
+PROP0228,Koramangala,Apartment,23165851.0,1922.0,4.0,3.0,19.2
+PROP0229,HSR Layout,Apartment,16284594.0,1466.0,3.0,3.0,11.4
+PROP0230,Indiranagar,Apartment,17381791.0,1595.0,3.0,4.0,5.1
+PROP0231,Indiranagar,Apartment,16803667.0,1457.0,3.0,3.0,4.0
+PROP0232,Koramangala,Apartment,19644612.0,1625.0,2.0,1.0,22.0
+PROP0233,Electronic City,Apartment,9979549.0,1671.0,3.0,3.0,9.0
+PROP0234,HSR Layout,Apartment,4608604.0,443.0,2.0,2.0,0.3
+PROP0235,Electronic City,Villa,9375809.0,1797.0,3.0,3.0,9.4
+PROP0236,Jayanagar,Apartment,10168256.0,939.0,2.0,2.0,16.5
+PROP0237,Koramangala,Apartment,8607815.0,700.0,1.0,1.0,3.9
+PROP0238,Jayanagar,Villa,14422129.0,1420.0,3.0,4.0,10.8
+PROP0239,Indiranagar,Apartment,15519744.0,1494.0,2.0,2.0,11.5
+PROP0240,,Independent House,11817376.0,1089.0,1.0,1.0,4.1
+PROP0241,Jayanagar,Apartment,16612678.0,1882.0,3.0,3.0,23.3
+PROP0242,Jayanagar,Apartment,8151792.0,752.0,1.0,1.0,11.7
+PROP0243,Whitefield,Independent House,9751205.0,1238.0,3.0,2.0,7.7
+PROP0244,Koramangala,Apartment,14480223.0,1146.0,2.0,3.0,9.0
+PROP0245,HSR Layout,Apartment,15826813.0,1426.0,2.0,1.0,3.4
+PROP0246,Electronic City,Villa,10335757.0,1595.0,2.0,2.0,3.3
+PROP0247,HSR Layout,Apartment,10180143.0,926.0,1.0,1.0,7.2
+PROP0248,Koramangala,Villa,21732599.0,1827.0,3.0,2.0,7.5
+PROP0249,,Independent House,11045289.0,1483.0,2.0,1.0,8.6
+PROP0250,Koramangala,Independent House,5072900.0,466.0,1.0,2.0,24.7
+PROP0251,HSR Layout,Apartment,4823867.0,432.0,1.0,1.0,15.9
+PROP0252,Electronic City,Apartment,8761011.0,1444.0,3.0,3.0,1.9
+PROP0253,Koramangala,Studio,15713259.0,1335.0,2.0,3.0,21.7
+PROP0254, whitefield ,Apartment,10536574.0,1396.0,1.0,1.0,7.1
+PROP0255,Whitefield,Apartment,10139219.0,1435.0,3.0,3.0,17.0
+PROP0256,Jayanagar,Apartment,15175971.0,1567.0,3.0,3.0,7.6
+PROP0257,Jayanagar,Apartment,17423676.0,1943.0,3.0,3.0,11.1
+PROP0258,Indiranagar,Apartment,9868814.0,872.0,2.0,1.0,3.6
+PROP0259,Indiranagar,Apartment,9254518.0,841.0,1.0,2.0,13.0
+PROP0260,HSR Layout,Apartment,10355283.0,881.0,2.0,1.0,18.3
+PROP0261,Indiranagar,Apartment,18078833.0,1600.0,2.0,3.0,2.3
+PROP0262,Jayanagar,Independent House,,2097.0,4.0,5.0,18.5
+PROP0263,Whitefield,Apartment,,1226.0,1.0,1.0,5.9
+PROP0264,Indiranagar,Apartment,2578586.0,350.0,1.0,1.0,29.9
+PROP0265,Electronic City,Apartment,2547565.0,564.0,2.0,1.0,17.2
+PROP0266,Indiranagar,Apartment,11287956.0,1017.0,2.0,3.0,15.2
+PROP0267,Whitefield,Independent House,33758766.0,1160.0,2.0,3.0,
+PROP0268,Indiranagar,Independent House,12368902.0,1238.0,2.0,3.0,45.0
+PROP0269,Indiranagar,Apartment,15277294.0,1470.0,,1.0,7.2
+PROP0270,Indiranagar,Apartment,14140116.0,1288.0,3.0,3.0,4.4
+PROP0271,Indiranagar,Apartment,20828969.0,1996.0,3.0,2.0,6.1
+PROP0272,Whitefield,Apartment,8537655.0,1098.0,1.0,2.0,20.5
+PROP0273,Indiranagar,Apartment,10918046.0,1002.0,1.0,1.0,11.0
+PROP0274,HSR Layout,Apartment,18609052.0,1699.0,3.0,4.0,9.8
+PROP0275,HSR Layout,Apartment,6825258.0,651.0,1.0,2.0,7.2
+PROP0276,Koramangala,Apartment,20007049.0,1653.0,2.0,3.0,9.5
+PROP0277,Whitefield,Apartment,11518567.0,1503.0,2.0,2.0,6.9
+PROP0278,Koramangala,Apartment,15548538.0,1373.0,2.0,2.0,16.2
+PROP0279,Electronic City,Apartment,,2276.0,4.0,4.0,8.5
+PROP0280,Electronic City,Apartment,7105472.0,1126.0,1.0,,6.2
+PROP0281,Indiranagar,Apartment,28858598.0,2521.0,4.0,3.0,19.4
+PROP0282,Whitefield,Apartment,9866243.0,1333.0,2.0,2.0,4.5
+PROP0283,Whitefield,Apartment,5776936.0,786.0,2.0,3.0,11.1
+PROP0284,Whitefield,Apartment,11143009.0,,3.0,3.0,1.6
+PROP0285,HSR Layout,Studio,9451011.0,890.0,1.0,2.0,3.0
+PROP0286,Koramangala,Independent House,13252941.0,1059.0,2.0,1.0,7.8
+PROP0287,Indiranagar,Apartment,17994863.0,1656.0,3.0,3.0,6.8
+PROP0288,Whitefield,Apartment,14193594.0,1739.0,3.0,3.0,6.7
+PROP0289,Koramangala,Villa,13016104.0,1126.0,1.0,1.0,17.3
+PROP0290,Indiranagar,Villa,98269965.0,1963.0,3.0,,18.0
+PROP0291,Jayanagar,Apartment,,2052.0,3.0,2.0,12.7
+PROP0292,Indiranagar,Apartment,24062089.0,2197.0,3.0,4.0,4.3
+PROP0293,Electronic City,Apartment,9979612.0,1725.0,3.0,3.0,9.4
+PROP0294,Indiranagar,Apartment,24182732.0,2159.0,4.0,3.0,32.6
+PROP0295,Jayanagar,Apartment,3662002.0,472.0,1.0,1.0,42.7
+PROP0296,Electronic City,Apartment,7722166.0,1285.0,2.0,1.0,19.5
+PROP0297,Electronic City,Apartment,5452337.0,999.0,2.0,3.0,4.5
+PROP0298,Jayanagar,Apartment,15702226.0,1512.0,3.0,2.0,9.5
+PROP0299,Jayanagar,Apartment,11776780.0,1153.0,2.0,3.0,12.1
+PROP0300,HSR Layout,Villa,13413050.0,1364.0,2.0,1.0,10.8
+PROP0301,Jayanagar,Apartment,23850908.0,2429.0,3.0,3.0,20.9
+PROP0302,Indiranagar,Apartment,14736620.0,1362.0,2.0,1.0,16.8
+PROP0303,Koramangala,Apartment,,1665.0,3.0,4.0,4.2
+PROP0304,Koramangala,Studio,16886882.0,1329.0,1.0,1.0,6.3
+PROP0305,Electronic City,Apartment,9136206.0,1489.0,3.0,3.0,19.5
+PROP0306,Koramangala,Apartment,17065078.0,1453.0,3.0,2.0,25.2
+PROP0307,Whitefield,Apartment,12843573.0,1683.0,3.0,2.0,12.2
+PROP0308,HSR Layout,Studio,20855429.0,2056.0,4.0,3.0,27.2
+PROP0309,Whitefield,Studio,17842776.0,2307.0,4.0,5.0,11.2
+PROP0310,Indiranagar,Independent House,17752956.0,1611.0,3.0,3.0,4.9
+PROP0311,Koramangala,Apartment,20991173.0,1757.0,2.0,2.0,15.8
+PROP0312,Koramangala,Apartment,11451298.0,852.0,1.0,1.0,45.0
+PROP0313,Whitefield,Apartment,10179762.0,1404.0,3.0,4.0,3.4
+PROP0314,Whitefield,Apartment,14640370.0,1939.0,3.0,3.0,26.6
+PROP0315,Whitefield,Villa,14261917.0,1900.0,3.0,3.0,15.2
+PROP0316,Whitefield,Apartment,13379654.0,1560.0,2.0,1.0,6.0
+PROP0317,Whitefield,Apartment,14267565.0,1911.0,3.0,2.0,1.6
+PROP0318,HSR Layout,Independent House,17380397.0,1705.0,,2.0,1.0
+PROP0319,Whitefield,Apartment,,2074.0,3.0,3.0,6.7
+PROP0320,Electronic City,Apartment,9591899.0,1600.0,3.0,2.0,13.5
+PROP0321,Electronic City,Apartment,6553961.0,1265.0,2.0,1.0,18.6
+PROP0322,Koramangala,Independent House,18820935.0,1625.0,3.0,2.0,21.4
+PROP0323,Whitefield,Independent House,1201492.0,350.0,1.0,1.0,12.7
+PROP0324,Koramangala,Apartment,20717984.0,1649.0,3.0,4.0,11.4
+PROP0325,Jayanagar,Independent House,3008067.0,350.0,1.0,1.0,8.0
+PROP0326, hsr layout ,Independent House,4702298.0,554.0,1.0,2.0,13.8
+PROP0327,Jayanagar,Studio,17144724.0,1685.0,3.0,3.0,6.0
+PROP0328,Koramangala,Independent House,20094137.0,1698.0,3.0,4.0,3.6
+PROP0329,HSR Layout,Apartment,9162619.0,846.0,1.0,1.0,10.9
+PROP0330,Whitefield,Studio,7612728.0,1080.0,2.0,2.0,17.6
+PROP0331,Jayanagar,Apartment,22302623.0,2163.0,,5.0,2.9
+PROP0332,Whitefield,Villa,9759382.0,1198.0,2.0,2.0,6.7
+PROP0333,HSR Layout,Apartment,25903357.0,2616.0,4.0,5.0,10.6
+PROP0334,Electronic City,Villa,7794754.0,1449.0,2.0,1.0,
+PROP0335,Indiranagar,Independent House,18621084.0,1662.0,3.0,2.0,14.9
+PROP0336,HSR Layout,Apartment,22955396.0,2291.0,4.0,5.0,32.0
+PROP0337,Indiranagar,Independent House,16565677.0,1518.0,2.0,1.0,1.0
+PROP0338,HSR Layout,Apartment,10517869.0,929.0,2.0,3.0,32.9
+PROP0339,Indiranagar,Apartment,13805442.0,1393.0,2.0,3.0,
+PROP0340,Electronic City,Apartment,,1431.0,2.0,3.0,18.8
+PROP0341,Indiranagar,Studio,8710425.0,740.0,1.0,1.0,12.0
+PROP0342,Electronic City,Apartment,8455023.0,1317.0,4.0,5.0,6.1
+PROP0343,Jayanagar,Apartment,10026195.0,1064.0,1.0,1.0,18.6
+PROP0344,HSR Layout,Apartment,,1931.0,3.0,3.0,12.5
+PROP0345,Jayanagar,Apartment,13018187.0,1468.0,2.0,1.0,8.1
+PROP0346,Jayanagar,Apartment,11929091.0,1303.0,2.0,3.0,18.3
+PROP0347,Electronic City,Independent House,8102401.0,1395.0,2.0,3.0,20.4
+PROP0348,Whitefield,Villa,11985203.0,50.0,3.0,4.0,25.1
+PROP0349,HSR Layout,Studio,18482368.0,1771.0,3.0,4.0,5.6
+PROP0350,Indiranagar,Apartment,10819998.0,930.0,2.0,1.0,23.0
+PROP0351,HSR Layout,Independent House,8688853.0,908.0,2.0,1.0,8.2
+PROP0352,Whitefield,Apartment,15509577.0,,2.0,3.0,12.1
+PROP0353,Koramangala,Apartment,15541936.0,50.0,3.0,3.0,13.8
+PROP0354,HSR Layout,Apartment,6927862.0,713.0,1.0,1.0,21.8
+PROP0355,Koramangala,Apartment,,1681.0,3.0,4.0,17.0
+PROP0356,Koramangala,Apartment,21442541.0,1691.0,2.0,3.0,8.0
+PROP0357,Jayanagar,Villa,6610652.0,654.0,1.0,1.0,1.1
+PROP0358,Jayanagar,Apartment,16334289.0,1569.0,3.0,4.0,14.8
+PROP0359,Koramangala,Apartment,21389122.0,1833.0,3.0,2.0,11.7
+PROP0360,HSR Layout,Villa,17222749.0,1645.0,3.0,2.0,3.4
+PROP0361,Electronic City,Independent House,,1779.0,3.0,2.0,12.7
+PROP0362,Indiranagar,Apartment,7259509.0,720.0,1.0,1.0,10.5
+PROP0363,Indiranagar,Apartment,17760357.0,1622.0,3.0,2.0,24.9
+PROP0364,Indiranagar,Apartment,12760554.0,1293.0,2.0,1.0,34.3
+PROP0365,HSR Layout,Apartment,,1199.0,2.0,3.0,20.1
+PROP0366,Koramangala,Apartment,23810596.0,1903.0,3.0,4.0,10.0
+PROP0367,Jayanagar,Apartment,21223924.0,2219.0,4.0,5.0,11.2
+PROP0368,HSR Layout,Villa,23552875.0,2383.0,3.0,4.0,5.4
+PROP0369,Whitefield,Apartment,15940604.0,2134.0,4.0,5.0,6.3
+PROP0370,Electronic City,Apartment,8674985.0,1393.0,2.0,2.0,9.6
+PROP0371,Jayanagar,Apartment,15921093.0,1633.0,3.0,3.0,8.9
+PROP0372,Whitefield,Independent House,12532480.0,1849.0,3.0,,3.2
+PROP0373,,Apartment,12586876.0,1513.0,3.0,3.0,25.1
+PROP0374,Whitefield,Apartment,11495102.0,1518.0,2.0,1.0,27.4
+PROP0375,Indiranagar,Apartment,19571219.0,1878.0,3.0,4.0,24.6
+PROP0376,Indiranagar,Villa,16070924.0,1419.0,2.0,1.0,28.0
+PROP0377,Electronic City,Independent House,5388080.0,1071.0,2.0,3.0,40.7
+PROP0378,Koramangala,Apartment,14857802.0,1234.0,2.0,2.0,5.5
+PROP0379,Whitefield,Apartment,12726012.0,1780.0,12.0,4.0,39.6
+PROP0380,HSR Layout,Apartment,16400418.0,1452.0,2.0,1.0,8.0
+PROP0381,Koramangala,Apartment,20935836.0,1627.0,2.0,2.0,16.3
+PROP0382,Electronic City,Independent House,11027692.0,1798.0,3.0,3.0,2.5
+PROP0383,Jayanagar,Apartment,12492464.0,1255.0,1.0,1.0,7.2
+PROP0384,Koramangala,Apartment,23378898.0,1843.0,3.0,2.0,20.5
+PROP0385,Whitefield,Studio,11861533.0,1647.0,3.0,4.0,16.9
+PROP0386,Electronic City,Studio,5228537.0,,2.0,2.0,7.8
+PROP0387,HSR Layout,Apartment,22381677.0,2200.0,3.0,4.0,11.2
+PROP0388,Electronic City,Apartment,7336363.0,1190.0,2.0,2.0,6.6
+PROP0389,Indiranagar,Apartment,5954090.0,589.0,2.0,1.0,20.4
+PROP0390,Electronic City,Studio,5771935.0,907.0,2.0,3.0,
+PROP0391,HSR Layout,Villa,9642154.0,919.0,1.0,1.0,5.5
+PROP0392,Indiranagar,Villa,13820264.0,1477.0,3.0,2.0,10.4
+PROP0393,HSR Layout,Studio,13823323.0,1308.0,2.0,3.0,3.1
+PROP0394,HSR Layout,Apartment,13608901.0,1275.0,2.0,3.0,12.5
+PROP0395,Indiranagar,Apartment,19728895.0,1772.0,3.0,4.0,15.2
+PROP0396,Koramangala,Apartment,19681989.0,1627.0,3.0,3.0,13.2
+PROP0397,Jayanagar,Independent House,16818822.0,1614.0,2.0,3.0,14.4
+PROP0398,Whitefield,Apartment,13118256.0,,3.0,2.0,9.6
+PROP0399,Koramangala,Apartment,22232738.0,1770.0,3.0,4.0,9.7
+PROP0400,Koramangala,Apartment,5041913.0,354.0,1.0,1.0,9.4
+PROP0401,Whitefield,Villa,9921345.0,1260.0,1.0,1.0,7.0
+PROP0402,Electronic City,Studio,1425407.0,350.0,1.0,1.0,7.7
+PROP0403, jayanagar ,Villa,12272575.0,1469.0,3.0,3.0,14.7
+PROP0404,Indiranagar,Apartment,14794351.0,1448.0,2.0,1.0,25.1
+PROP0405,Electronic City,Independent House,12413328.0,,3.0,3.0,4.7
+PROP0406,Electronic City,Studio,11831221.0,2068.0,3.0,3.0,9.7
+PROP0407,Whitefield,Villa,12621348.0,1555.0,2.0,1.0,3.9
+PROP0408,Jayanagar,Villa,11676113.0,1190.0,2.0,1.0,7.1
+PROP0409,Indiranagar,Independent House,19336398.0,1702.0,3.0,4.0,8.1
+PROP0410,Electronic City,Independent House,6709453.0,1175.0,2.0,2.0,11.8
+PROP0411,HSR Layout,Apartment,15479039.0,1449.0,3.0,3.0,11.6
+PROP0412,HSR Layout,Apartment,20713380.0,1963.0,3.0,3.0,10.3
+PROP0413,Indiranagar,Apartment,13643994.0,1160.0,2.0,2.0,13.9
+PROP0414,Electronic City,Studio,9872796.0,,3.0,3.0,5.1
+PROP0415,Indiranagar,Villa,19235541.0,1802.0,3.0,3.0,11.9
+PROP0416,Whitefield,Apartment,7715760.0,954.0,1.0,2.0,17.2
+PROP0417,Indiranagar,Apartment,22457749.0,1956.0,3.0,4.0,5.1
+PROP0418,Jayanagar,Independent House,-1000.0,1813.0,2.0,1.0,2.0
+PROP0419,Whitefield,Independent House,11421803.0,1503.0,2.0,3.0,20.3
+PROP0420,Electronic City,Independent House,6781647.0,1054.0,1.0,2.0,4.0
+PROP0421,HSR Layout,Apartment,11038255.0,1003.0,2.0,1.0,6.8
+PROP0422,Indiranagar,Studio,12453380.0,1170.0,2.0,3.0,16.9
+PROP0423,Indiranagar,Studio,19217832.0,1732.0,4.0,4.0,4.9
+PROP0424,Indiranagar,Apartment,11148371.0,953.0,1.0,2.0,19.4
+PROP0425,HSR Layout,Apartment,18820168.0,1678.0,3.0,3.0,6.0
+PROP0426,Jayanagar,Independent House,8309715.0,804.0,1.0,2.0,5.4
+PROP0427,Whitefield,Apartment,,1344.0,2.0,1.0,3.9
+PROP0428,Jayanagar,Apartment,14550642.0,1507.0,3.0,2.0,6.1
+PROP0429,Indiranagar,Villa,29570449.0,2721.0,3.0,4.0,15.4
+PROP0430,Jayanagar,Villa,7044215.0,734.0,,1.0,6.8
+PROP0431, electronic city ,Apartment,12752281.0,2215.0,5.0,5.0,20.4
+PROP0432,Jayanagar,Villa,13828285.0,1528.0,2.0,1.0,10.6
+PROP0433,HSR Layout,Apartment,18204557.0,1664.0,12.0,2.0,11.3
+PROP0434,Jayanagar,Studio,13790871.0,1512.0,3.0,4.0,5.3
+PROP0435, indiranagar ,Apartment,17700828.0,1681.0,3.0,2.0,22.4
+PROP0436,Whitefield,Villa,10310983.0,1370.0,2.0,2.0,17.3
+PROP0437,Indiranagar,Studio,24465411.0,2206.0,3.0,2.0,17.0
+PROP0438,Koramangala,Apartment,14569030.0,1213.0,2.0,1.0,9.2
+PROP0439,Jayanagar,Apartment,19480234.0,2039.0,3.0,2.0,3.5
+PROP0440,HSR Layout,Studio,11079827.0,1115.0,1.0,2.0,11.7
+PROP0441,Electronic City,Apartment,9627923.0,1419.0,2.0,3.0,14.9
+PROP0442,Indiranagar,Apartment,7500067.0,893.0,1.0,1.0,15.0
+PROP0443,Jayanagar,Apartment,15635884.0,1687.0,3.0,3.0,13.7
+PROP0444,Whitefield,Independent House,18606909.0,2201.0,4.0,4.0,13.3
+PROP0445,Whitefield,Apartment,11229370.0,1410.0,2.0,2.0,6.0
+PROP0446,HSR Layout,Apartment,13327733.0,1348.0,3.0,4.0,6.3
+PROP0447,Electronic City,Independent House,5168917.0,870.0,1.0,1.0,3.9
+PROP0448,HSR Layout,Apartment,13463173.0,1331.0,2.0,1.0,20.5
+PROP0449,Indiranagar,Apartment,7144251.0,622.0,2.0,2.0,33.4
+PROP0450,HSR Layout,Apartment,11286652.0,975.0,2.0,2.0,45.0
+PROP0451,Indiranagar,Apartment,17500691.0,1568.0,3.0,2.0,
+PROP0452,Electronic City,Apartment,12229151.0,2136.0,3.0,4.0,13.3
+PROP0453,HSR Layout,Villa,30552670.0,2911.0,5.0,4.0,9.4
+PROP0454,Whitefield,Apartment,8254869.0,1145.0,2.0,1.0,12.2
+PROP0455,Indiranagar,Villa,23381783.0,2196.0,4.0,4.0,4.8
+PROP0456,Whitefield,Apartment,10912208.0,1577.0,3.0,3.0,9.3
+PROP0457,Electronic City,Apartment,7082654.0,1371.0,2.0,1.0,5.5
+PROP0458,Koramangala,Apartment,20164486.0,1675.0,3.0,2.0,8.4
+PROP0459,Jayanagar,Apartment,13514754.0,1482.0,2.0,1.0,5.9
+PROP0460,HSR Layout,Villa,15827259.0,1507.0,2.0,2.0,14.9
+PROP0461,HSR Layout,Apartment,11814007.0,1238.0,,2.0,16.2
+PROP0462,Indiranagar,Apartment,5464947.0,723.0,1.0,1.0,13.0
+PROP0463,Electronic City,Apartment,3113698.0,647.0,1.0,1.0,6.3
+PROP0464,Whitefield,Studio,13534283.0,1790.0,3.0,4.0,3.7
+PROP0465,HSR Layout,Apartment,13241104.0,1306.0,2.0,1.0,16.4
+PROP0466,HSR Layout,Studio,12966438.0,1140.0,2.0,3.0,10.6
+PROP0467,HSR Layout,Apartment,14833154.0,1454.0,3.0,2.0,1.9
+PROP0468,Electronic City,Apartment,11497833.0,1863.0,3.0,2.0,11.7
+PROP0469,Indiranagar,Villa,16397942.0,1544.0,2.0,1.0,13.4
+PROP0470,Koramangala,Apartment,13810695.0,1109.0,2.0,1.0,2.6
+PROP0471,Koramangala,Apartment,25251521.0,2088.0,3.0,2.0,15.1
+PROP0472, koramangala ,Independent House,28264975.0,2271.0,4.0,4.0,
+PROP0473,Indiranagar,Apartment,18052341.0,1707.0,3.0,3.0,5.7
+PROP0474,Indiranagar,Apartment,21515696.0,1956.0,3.0,4.0,3.1
+PROP0475,Whitefield,Apartment,16005312.0,2096.0,4.0,4.0,
+PROP0476,Whitefield,Apartment,15072528.0,2038.0,3.0,3.0,3.7
+PROP0477,Koramangala,Studio,22410600.0,1769.0,3.0,3.0,20.5
+PROP0478,HSR Layout,Apartment,18469451.0,1761.0,3.0,2.0,8.8
+PROP0479,HSR Layout,Independent House,17523248.0,1720.0,3.0,4.0,7.4
+PROP0480,Koramangala,Villa,10875028.0,879.0,2.0,1.0,21.7
+PROP0481,Koramangala,Independent House,21324262.0,1814.0,3.0,4.0,21.0
+PROP0482,Whitefield,Studio,5190355.0,745.0,2.0,3.0,7.9
+PROP0483,HSR Layout,Independent House,10636611.0,1037.0,3.0,4.0,12.9
+PROP0484,Whitefield,Apartment,15920714.0,2128.0,3.0,3.0,6.7
+PROP0485,Indiranagar,Apartment,19535403.0,1887.0,3.0,2.0,9.8
+PROP0486,Koramangala,Apartment,26469962.0,2223.0,3.0,4.0,4.3
+PROP0487,Koramangala,Villa,15884195.0,1309.0,2.0,1.0,14.2
+PROP0488,,Apartment,6666096.0,851.0,1.0,1.0,22.3
+PROP0489,HSR Layout,Villa,12789452.0,1325.0,2.0,3.0,19.8
+PROP0490,Koramangala,Apartment,20244708.0,1503.0,2.0,3.0,10.9
+PROP0491, hsr layout ,Studio,16214627.0,1491.0,2.0,3.0,1.7
+PROP0492,HSR Layout,Apartment,-1000.0,2040.0,3.0,,6.4
+PROP0493,HSR Layout,Independent House,13579394.0,1262.0,2.0,3.0,9.8
+PROP0494,Whitefield,Apartment,13926558.0,1633.0,2.0,1.0,3.3
+PROP0495,Jayanagar,Apartment,8596887.0,936.0,3.0,3.0,2.8
+PROP0496,Koramangala,Studio,18456209.0,1684.0,3.0,4.0,26.3
+PROP0497,Koramangala,Studio,16886165.0,1452.0,2.0,2.0,
+PROP0498,HSR Layout,Villa,11123594.0,1060.0,1.0,2.0,14.9
+PROP0499,Whitefield,Independent House,9993771.0,1327.0,3.0,3.0,16.9
+PROP0500,Koramangala,Apartment,17046018.0,1354.0,3.0,2.0,3.8
+PROP0501,Jayanagar,Studio,13562274.0,1310.0,2.0,1.0,5.1
+PROP0502,Electronic City,Apartment,14413725.0,2371.0,3.0,3.0,12.3
+PROP0503,Electronic City,Apartment,8782119.0,1399.0,2.0,3.0,13.0
+PROP0504,Koramangala,Apartment,15808330.0,1323.0,2.0,2.0,3.1
+PROP0505,Koramangala,Apartment,16193803.5,359.0,1.0,2.0,11.7
+PROP0506,Jayanagar,Apartment,10521601.0,985.0,2.0,2.0,9.9
+PROP0507,Whitefield,Studio,9878366.0,1313.0,2.0,1.0,19.4
+PROP0508,Jayanagar,Apartment,10015551.0,1093.0,1.0,1.0,13.1
+PROP0509,Koramangala,Independent House,25689481.0,2168.0,3.0,3.0,28.2
+PROP0510,Indiranagar,Apartment,14369886.0,1364.0,3.0,4.0,7.9
+PROP0511,Indiranagar,Apartment,22679248.0,2120.0,4.0,5.0,4.1
+PROP0512,Jayanagar,Villa,13601599.0,1482.0,3.0,2.0,27.8
+PROP0513,Indiranagar,Apartment,14782590.0,1469.0,2.0,2.0,13.5
+PROP0514,Whitefield,Apartment,10532806.0,1404.0,2.0,3.0,10.0
+PROP0515,Whitefield,Villa,10783529.0,1452.0,3.0,3.0,5.3
+PROP0516,Whitefield,Apartment,18707101.0,2344.0,3.0,2.0,8.0
+PROP0517,Whitefield,Apartment,2910576.0,350.0,1.0,1.0,7.7
+PROP0518,Jayanagar,Villa,4171069.0,409.0,1.0,1.0,3.9
+PROP0519,Indiranagar,Apartment,12321365.0,1168.0,2.0,1.0,1.2
+PROP0520,Jayanagar,Studio,14075461.0,1458.0,2.0,2.0,7.5
+PROP0521, electronic city ,Studio,10840251.0,1809.0,3.0,2.0,17.2
+PROP0522,Whitefield,Apartment,60713811.0,1696.0,3.0,3.0,23.5
+PROP0523,Indiranagar,Apartment,13660779.0,1250.0,2.0,2.0,19.9
+PROP0524, hsr layout ,Apartment,20656165.0,1980.0,3.0,3.0,20.6
+PROP0525,Indiranagar,Villa,21725283.0,1986.0,3.0,3.0,4.3
+PROP0526,Whitefield,Apartment,12423671.0,1546.0,3.0,2.0,12.5
+PROP0527,Electronic City,Independent House,11228786.0,1951.0,3.0,4.0,15.0
+PROP0528,Electronic City,Apartment,8040375.0,1592.0,3.0,4.0,15.7
+PROP0529,Jayanagar,Villa,11390152.0,1158.0,2.0,,9.8
+PROP0530,Whitefield,Apartment,14417887.0,1813.0,3.0,4.0,11.4
+PROP0531,HSR Layout,Apartment,15694204.0,,2.0,2.0,19.5
+PROP0532,HSR Layout,Apartment,15523611.0,1451.0,3.0,4.0,14.7
+PROP0533,Whitefield,Apartment,16262859.0,2216.0,4.0,4.0,16.5
+PROP0534,HSR Layout,Independent House,3104573.0,350.0,1.0,1.0,7.3
+PROP0535,Indiranagar,Apartment,8057956.0,713.0,2.0,3.0,15.9
+PROP0536,Whitefield,Apartment,6747930.0,833.0,1.0,1.0,11.3
+PROP0537,Koramangala,Apartment,14919995.0,1261.0,1.0,2.0,18.2
+PROP0538,Indiranagar,Apartment,-1000.0,1318.0,2.0,2.0,6.0
+PROP0539,Indiranagar,Independent House,6383969.0,666.0,1.0,2.0,17.2
+PROP0540,Jayanagar,Independent House,8692781.0,938.0,2.0,2.0,8.1
+PROP0541,Electronic City,Independent House,6960275.0,1002.0,1.0,1.0,-3.0
+PROP0542,Koramangala,Apartment,34386721.0,2728.0,5.0,4.0,12.6
+PROP0543,Jayanagar,Apartment,23126422.0,2387.0,4.0,5.0,10.8
+PROP0544,Electronic City,Studio,33933384.0,1236.0,2.0,1.0,8.4
+PROP0545,,Apartment,13755237.0,1261.0,2.0,2.0,10.0
+PROP0546,Koramangala,Villa,8622189.0,852.0,1.0,1.0,7.6
+PROP0547,Koramangala,Apartment,4950648.0,458.0,1.0,1.0,8.3
+PROP0548,Indiranagar,Apartment,14779630.0,1389.0,3.0,2.0,14.4
+PROP0549,Jayanagar,Independent House,8814025.0,931.0,,2.0,2.2
+PROP0550,Koramangala,Apartment,17479733.0,1406.0,2.0,2.0,17.1
+PROP0551,Koramangala,Independent House,8197329.0,618.0,1.0,1.0,17.3
+PROP0552,Indiranagar,Apartment,11199944.0,1054.0,2.0,1.0,8.6
+PROP0553,Whitefield,Apartment,10917550.0,1527.0,3.0,4.0,11.7
+PROP0554,Electronic City,Apartment,9930173.0,1640.0,2.0,1.0,4.8
+PROP0555,Indiranagar,Apartment,17614237.0,1667.0,3.0,2.0,13.8
+PROP0556,Whitefield,Apartment,5759370.0,763.0,12.0,2.0,5.3
+PROP0557,Whitefield,Apartment,14559343.0,1894.0,3.0,2.0,0.4
+PROP0558,Koramangala,Villa,14379604.0,1034.0,1.0,1.0,22.9
+PROP0559,HSR Layout,Independent House,16941293.0,1779.0,3.0,2.0,4.4
+PROP0560,Koramangala,Apartment,17525556.0,1444.0,3.0,3.0,9.9
+PROP0561,Indiranagar,Apartment,7807926.0,734.0,1.0,2.0,12.0
+PROP0562,Whitefield,Apartment,9132019.0,1286.0,2.0,2.0,14.4
+PROP0563,Jayanagar,Studio,16649083.0,1640.0,3.0,4.0,10.5
+PROP0564,,Apartment,19046189.0,1769.0,4.0,5.0,12.7
+PROP0565,HSR Layout,Apartment,14396221.0,1377.0,2.0,1.0,8.5
+PROP0566,HSR Layout,Apartment,23305277.0,2247.0,3.0,3.0,2.7
+PROP0567,Jayanagar,Apartment,19218072.0,1974.0,3.0,2.0,10.2
+PROP0568,Indiranagar,Apartment,13914406.0,1317.0,3.0,3.0,15.7
+PROP0569,Whitefield,Apartment,14188505.0,1840.0,2.0,1.0,4.6
+PROP0570,Koramangala,Independent House,29634849.0,2456.0,4.0,5.0,12.1
+PROP0571,Whitefield,Apartment,18923677.0,,3.0,2.0,31.8
+PROP0572,Jayanagar,Apartment,8358927.0,811.0,1.0,1.0,9.7
+PROP0573,Koramangala,Apartment,11198308.0,968.0,1.0,,10.1
+PROP0574,Jayanagar,Apartment,20898885.0,2222.0,4.0,5.0,2.5
+PROP0575,Electronic City,Apartment,4162503.0,50.0,2.0,3.0,4.1
+PROP0576, koramangala ,Apartment,10119239.0,762.0,1.0,2.0,5.4
+PROP0577,Electronic City,Apartment,,1197.0,2.0,2.0,15.3
+PROP0578,HSR Layout,Villa,17667091.0,1669.0,3.0,2.0,4.9
+PROP0579,Electronic City,Apartment,7375412.0,1397.0,3.0,4.0,1.7
+PROP0580,Whitefield,Independent House,9703941.0,1112.0,2.0,2.0,13.6
+PROP0581,Koramangala,Apartment,13138407.0,1099.0,2.0,3.0,5.8
+PROP0582,Koramangala,Apartment,13534416.0,1080.0,2.0,3.0,2.6
+PROP0583,Indiranagar,Independent House,11414073.0,993.0,2.0,2.0,16.6
+PROP0584,Koramangala,Studio,144978786.0,2636.0,12.0,6.0,7.8
+PROP0585,Electronic City,Apartment,9058628.0,1605.0,2.0,3.0,14.4
+PROP0586,HSR Layout,Independent House,20161880.0,1911.0,3.0,3.0,2.5
+PROP0587,Whitefield,Apartment,,1196.0,2.0,1.0,1.0
+PROP0588,Whitefield,Apartment,10639245.0,1353.0,3.0,2.0,11.3
+PROP0589,Whitefield,Independent House,9494929.0,1079.0,2.0,2.0,4.0
+PROP0590,Indiranagar,Studio,4679348.0,350.0,1.0,1.0,11.2
+PROP0591,Electronic City,Apartment,4573343.0,733.0,1.0,1.0,11.3
+PROP0592,Koramangala,Apartment,5627010.0,508.0,1.0,1.0,10.3
+PROP0593,Whitefield,Apartment,3357713.0,350.0,1.0,2.0,20.5
+PROP0594,HSR Layout,Apartment,7566091.0,828.0,1.0,2.0,45.0
+PROP0595,Indiranagar,Independent House,23726131.0,2139.0,4.0,3.0,13.4
+PROP0596,Whitefield,Apartment,10542532.0,1427.0,3.0,3.0,31.8
+PROP0597,HSR Layout,Apartment,20320251.0,2121.0,3.0,2.0,7.9
+PROP0598,HSR Layout,Apartment,17228142.0,1664.0,2.0,3.0,3.3
+PROP0599,Electronic City,Apartment,11531057.0,1857.0,3.0,4.0,6.1
+PROP0600,HSR Layout,Apartment,10101082.0,982.0,1.0,2.0,8.3
+PROP0601,Koramangala,Independent House,21558194.0,,2.0,2.0,33.5
+PROP0602,Jayanagar,Villa,16823799.0,1829.0,3.0,3.0,10.8
+PROP0603,Electronic City,Villa,5724152.0,1150.0,3.0,4.0,21.0
+PROP0604,HSR Layout,Apartment,18158325.0,1741.0,4.0,4.0,7.4
+PROP0605, electronic city ,Apartment,10370976.0,1744.0,2.0,2.0,6.7
+PROP0606,Jayanagar,Apartment,11144784.0,1164.0,2.0,3.0,2.4
+PROP0607,Electronic City,Apartment,5556135.0,866.0,2.0,2.0,32.8
+PROP0608,Indiranagar,Apartment,8558523.0,834.0,1.0,2.0,25.6
+PROP0609,Jayanagar,Villa,14479074.0,1495.0,3.0,3.0,12.1
+PROP0610,Koramangala,Independent House,19892003.0,1620.0,2.0,3.0,8.6
+PROP0611,Koramangala,Apartment,11854993.0,1038.0,2.0,1.0,11.1
+PROP0612,HSR Layout,Apartment,14421346.0,1464.0,2.0,1.0,3.2
+PROP0613,Electronic City,Villa,10314179.0,1747.0,3.0,2.0,14.4
+PROP0614,Electronic City,Apartment,11343331.0,1771.0,2.0,2.0,24.3
+PROP0615,Whitefield,Independent House,17298756.0,2257.0,4.0,5.0,
+PROP0616, jayanagar ,Apartment,19408446.0,2114.0,4.0,3.0,2.5
+PROP0617,Jayanagar,Apartment,6483051.0,929.0,1.0,1.0,20.9
+PROP0618,Whitefield,Apartment,18505898.0,,3.0,4.0,3.2
+PROP0619,Indiranagar,Independent House,12824711.0,1174.0,1.0,2.0,1.1
+PROP0620,Indiranagar,Apartment,22008948.0,1993.0,3.0,3.0,21.4
+PROP0621,Jayanagar,Villa,13721875.0,1485.0,2.0,2.0,7.0
+PROP0622,Koramangala,Apartment,15453573.0,1236.0,1.0,1.0,19.5
+PROP0623, electronic city ,Apartment,3508460.0,510.0,1.0,1.0,18.3
+PROP0624,Koramangala,Independent House,16678767.0,1361.0,2.0,1.0,-3.0
+PROP0625,Electronic City,Apartment,3511794.0,639.0,1.0,2.0,11.0
+PROP0626,Koramangala,Apartment,,,3.0,3.0,3.6
+PROP0627,Jayanagar,Apartment,22133792.0,2239.0,4.0,5.0,8.3
+PROP0628,Indiranagar,Independent House,11251853.0,1036.0,2.0,3.0,25.3
+PROP0629,Koramangala,Apartment,20546724.0,1607.0,3.0,2.0,19.8
+PROP0630,Jayanagar,Apartment,10045686.0,1073.0,2.0,1.0,8.6
+PROP0631,Electronic City,Independent House,5663096.0,1123.0,1.0,2.0,8.5
+PROP0632,Jayanagar,Villa,19479810.0,1853.0,3.0,2.0,15.8
+PROP0633,Indiranagar,Independent House,15289735.0,1430.0,2.0,2.0,11.5
+PROP0634, whitefield ,Studio,17738353.0,2355.0,4.0,5.0,9.0
+PROP0635,Indiranagar,Villa,12580254.0,1199.0,2.0,3.0,14.9
+PROP0636,,Apartment,21448413.0,1970.0,3.0,4.0,14.6
+PROP0637,HSR Layout,Apartment,15202978.0,1501.0,3.0,2.0,6.2
+PROP0638,HSR Layout,Villa,18870464.0,1864.0,3.0,,13.2
+PROP0639,Jayanagar,Villa,11761565.0,1217.0,1.0,1.0,14.0
+PROP0640,Electronic City,Independent House,8450746.0,1424.0,3.0,2.0,10.4
+PROP0641,Jayanagar,Apartment,11811042.0,1390.0,1.0,1.0,5.7
+PROP0642,Jayanagar,Apartment,,1015.0,1.0,2.0,
+PROP0643,Indiranagar,Apartment,19514132.0,1794.0,3.0,2.0,4.8
+PROP0644,Whitefield,Apartment,13895326.0,1788.0,3.0,4.0,13.4
+PROP0645,HSR Layout,Apartment,17391442.0,1759.0,2.0,2.0,2.5
+PROP0646,Electronic City,Studio,12337173.0,2249.0,3.0,3.0,27.0
+PROP0647,Indiranagar,Apartment,22059849.0,2204.0,4.0,,23.6
+PROP0648, koramangala ,Apartment,16396186.0,1255.0,1.0,1.0,14.2
+PROP0649,HSR Layout,Apartment,,1644.0,3.0,3.0,19.0
+PROP0650,Indiranagar,Villa,12330083.0,1126.0,2.0,1.0,18.2
+PROP0386,Electronic City,Studio,5228537.0,,2.0,2.0,7.8
+PROP0243,Whitefield,Independent House,9751205.0,1238.0,3.0,2.0,7.7
+PROP0601,Koramangala,Independent House,21558194.0,,2.0,2.0,33.5
+PROP0580,Whitefield,Independent House,9703941.0,1112.0,2.0,2.0,13.6
+PROP0476,Whitefield,Apartment,15072528.0,2038.0,3.0,3.0,3.7
+PROP0466,HSR Layout,Studio,12966438.0,1140.0,2.0,3.0,10.6
+PROP0215,HSR Layout,Independent House,14314335.0,1275.0,2.0,1.0,6.1
+PROP0590,Indiranagar,Studio,4679348.0,350.0,1.0,1.0,11.2
