@@ -52,5 +52,5 @@ Run individual technical projects from their `src` folders using Python.
 ## Candidate Details
 
 Name: Priyanshu Raj  
-Internship: Growfinix Technology - Data Analytics Internship  
-Submission Type: Complete 5/5 Tasks
+Internship: Growfinix Technology 
+
